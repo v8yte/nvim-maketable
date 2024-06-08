@@ -1,4 +1,4 @@
-# nvim-maketable
+# [nvim-maketable](https://v8yte.github.io/nvim-maketable)
 This project is a fork of the original [vim-maketable](https://github.com/mattn/vim-maketable) plugin, which was originally written in Vimscript.
 
 The purpose of this fork is to rewrite the plugin in Lua.
